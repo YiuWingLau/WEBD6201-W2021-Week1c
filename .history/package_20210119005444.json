@@ -1,0 +1,13 @@
+{
+  "name": "webd6201-w2021-week1c",
+  "version": "0.0.1",
+  "description": "Demo project for WEBD6201 week 1",
+  "main": "index.js",
+  "repository": "https://github.com/YiuWingLau/webd6201-w2021-week1c.git",
+  "author": "Yiu Wing Lau <yiuwing.lau@dcmail.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "bootstrap": "^5.0.0-beta1"
+  }
+}
